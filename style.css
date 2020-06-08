@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #40514e;
+    font-size: 30px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    color: #eaf6f6;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: 'Mali', cursive;
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: 'Mali', cursive;
+    color: #11999e;
+}
+
+#propic {
+    padding-top: 1%;
+    width: 25%;
+    border-radius: 100%;
+}
+
+#lol {
+    font-size: 2.5rem;
+    color: #8ec6c5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.first-container {
+    background-color: #e4f9f5;
+    margin: 0px 0px 0px;
+    padding-top: 100px;
+    position: relative;
+}
+
+.profile {
+    padding-bottom: 20px;
+}
+
+.intro {
+    width: 40%;
+    margin: 0px auto;
+}
+
+.code-img {
+    float: left;
+    margin-right: 30px;
+    padding-top: 10px;
+    width: 25%;
+    border-radius: 100%;
+}
+
+.gaming {
+    float: left;
+    margin-right: 30px;
+    padding-top: 10px;
+    width: 25%;
+}
+
+.developer {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.middle-container {
+    margin: 100px 0;
+    font-size: 15px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 0px auto;
+}
+
+.bottom-container {
+    font-size: 15px;
+    background-color: #66bfbf;
+    padding: 30px 0;
+}
+
+.footer-link {
+    font-size: 1rem;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-decoration: none;
+    color: #11999e;
+    margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    padding: 20px 0;
+    font-size: 0.75rem;
+}
+
+.btn {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #a8df65;
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6), inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.btn:hover {
+    background-color: #edf492;
+}
+
+.btn:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6), inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 8%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 30%;
+    left: 12%;
+}
